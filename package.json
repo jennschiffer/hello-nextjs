@@ -1,34 +1,26 @@
 {
-  "name": "nextbook",
+  "name": "hello-nextjs",
   "version": "0.0.1",
-  "description": "a nextjs book app",
+  "description": "a nextjs hello world app",
   "main": "server.js",
   "scripts": {
     "start": "next"
   },
   "dependencies": {
-    "next": "^2.3.1",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "react-markdown": "^2.5.0",
-    "babel-plugin-transform-md-import-to-string": "^1.0.6",
-    "react-redux": "^5.0.4",
-    "redux": "^3.6.0",
-    "redux-thunk": "^2.2.0",
-    "next-redux-wrapper": "^1.1.2",
-    "axios": "^0.16.1"
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "engines": {
     "node": "6.9.x"
   },
   "repository": {
-    "url": "https://glitch.com/#!/project/nextbook"
+    "url": "https://glitch.com/#!/project/hello-nextjs"
   },
   "license": "MIT",
   "keywords": [
     "node",
     "glitch",
-    "express",
-    "next"
+    "express"
   ]
 }
