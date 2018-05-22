@@ -1,1 +1,1 @@
-export default () => <h1>it works!</h1>;
+export default () => <h1>It works!</h1>;
